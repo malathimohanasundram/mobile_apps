@@ -16,9 +16,9 @@ Before attending the first lecture, make sure you've completed all the essential
 
 - 🧑‍🎓 **[Student Information](https://github.com/drshahizan/mobile_apps/blob/main/materials/student.md)**: Access personal and academic information relevant to your student profile.
   
-- 📚 **[Course Information](https://github.com/drshahizan/mobile_apps/blob/main/images/CI%20SCSP2523%20-%20SEM%20I%2020252026.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
+- 📚 **[Course Information](https://github.com/drshahizan/mobile_apps/blob/main/images/SECJ3623-MAP-CI_space.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
 
-- 📅 **[Weekly Schedule](./2425/materials/schedule.md)**: A week-by-week breakdown of course topics.
+- 📅 **[Weekly Schedule]()**: A week-by-week breakdown of course topics.
 
 - 📝 **[Assignment]()**: View and download current assignments, submission guidelines, and deadlines.
   
