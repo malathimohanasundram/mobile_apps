@@ -14,7 +14,7 @@ Welcome to the **Mobile Application Programming** class! We are excited to embar
 ## ✅ **Pre-Class Requirements**
 
 1. **Fill in Your Information** 📝
-   Please provide your details in the **Google Sheets** document [here](https://liveutm-my.sharepoint.com/:x:/g/personal/shahizan_live_utm_my/ERpjtLDI139Ml86Wcj4ZSjEB5rbYw-nOE-Gp_ohFr1XB5w?e=CbJh74).
+   Please provide your details in the **Google Sheets** document [here](https://liveutm-my.sharepoint.com/:x:/g/personal/shahizan_live_utm_my/EUfXevsaXEtEkM6oIQGUU0MBSZZUqLNGppgxXzsne9K6eg?e=RahRHt).
 
 2. **Star the GitHub Repository** ⭐
    As part of our course setup, please **star** the course repository available [here](https://github.com/drshahizan/mobile_apps).
