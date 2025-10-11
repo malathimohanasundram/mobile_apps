@@ -16,21 +16,17 @@ Welcome to the **Mobile Application Programming** class! We are excited to embar
 1. **Fill in Your Information** 📝
    Please provide your details in the **Google Sheets** document [here](https://liveutm-my.sharepoint.com/:x:/g/personal/shahizan_live_utm_my/ERpjtLDI139Ml86Wcj4ZSjEB5rbYw-nOE-Gp_ohFr1XB5w?e=CbJh74).
 
-2. **Complete the Entry Survey** 🧭
-   Kindly take a few minutes to complete the **Database WBL Entry Survey** [here](https://forms.gle/Jabs1zLyMRjXSJTSA).
-   This survey helps us understand your background, expectations, and learning goals for the course.
-
-3. **Star the GitHub Repository** ⭐
+2. **Star the GitHub Repository** ⭐
    As part of our course setup, please **star** the course repository available [here](https://github.com/drshahizan/database).
    This repository will serve as the main hub for course materials, announcements, and assignments.
 
-4. **Access Teaching Materials** 📚
+3. **Access Teaching Materials** 📚
    All teaching materials will be hosted on **GitHub**. Please follow [this link](https://github.com/drshahizan/database) to access them.
 
-5. **Update Your GitHub Profile** 👨‍💻
+4. **Update Your GitHub Profile** 👨‍💻
    Ensure your **GitHub profile** is up to date with your name, photo, and relevant information (e.g., academic or project background).
 
-6. **Student Information Submission** 🔗
+5. **Student Information Submission** 🔗
    Once added as a **collaborator** on the GitHub repository, please update your student information:
 
    * **Edit** the student information file: [Database Student Information](https://github.com/drshahizan/database/blob/main/materials/student.md)
@@ -54,4 +50,3 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
