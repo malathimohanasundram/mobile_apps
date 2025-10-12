@@ -6,7 +6,7 @@
 <a href="https://github.com/drshahizan/mobile_apps/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/mobile_apps?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fmobile_apps&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# # Tools for Creating UI/UX Mockups for Mobile Apps
+# Tools for Creating UI/UX Mockups for Mobile Apps
 
 Creating UI/UX mockups for mobile apps is an essential step in the design process, allowing you to visualize layouts, user flows, and interactions before development begins. These tools help with wireframing, prototyping, and collaboration. Based on recent recommendations as of 2025, here are some popular options, ranging from free to paid, including AI-powered ones for faster creation. I've categorized them for clarity, with brief descriptions, key features, and considerations.
 
