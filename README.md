@@ -28,8 +28,9 @@ Before attending the first lecture, make sure you've completed all the essential
 
 ## Flutter
 1. [Software Required for Building Mobile Apps with Flutter](https://github.com/drshahizan/mobile_apps/blob/main/materials/install.md)
-2. [Introduction to Flutter](https://github.com/drshahizan/mobile_apps/blob/main/materials/flutter1.md)
-3. [Your First Flutter App Tutorial](https://github.com/drshahizan/mobile_apps/blob/main/materials/flutter1.md)
+2. [Tools for Creating UI/UX Mockups for Mobile Apps](https://github.com/drshahizan/mobile_apps/blob/main/materials/design%20uiux.md)
+3. [Introduction to Flutter](https://github.com/drshahizan/mobile_apps/blob/main/materials/flutter1.md)
+4. [Your First Flutter App Tutorial](https://github.com/drshahizan/mobile_apps/blob/main/materials/flutter1.md)
 
 ## Tools
 Diagrams are visual representations of information or data that help convey complex concepts, processes or systems in a clear and concise manner. Flowcharts are diagrams that use shapes and arrows to illustrate the steps in a process or algorithm [**[More info...]**](https://github.com/drshahizan/software-engineering/blob/main/materials/tools.md).
