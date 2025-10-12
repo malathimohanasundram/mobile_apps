@@ -34,6 +34,7 @@ Before attending the first lecture, make sure you've completed all the essential
 
 ## Lab
 1. [How to install Flutter on Windows 2025 | Setup Android Studio for Flutter Step by Step](https://youtu.be/mMeQhLGD-og?si=1i2ij4zqe27kEqkn)
+2. [How to Install Flutter on a Mac: Step-by-Step Guide](https://youtu.be/QG9bw4rWqrg?si=7HCY_DsEoS-7Pr_Q)
 
 ## Tools
 Diagrams are visual representations of information or data that help convey complex concepts, processes or systems in a clear and concise manner. Flowcharts are diagrams that use shapes and arrows to illustrate the steps in a process or algorithm [**[More info...]**](https://github.com/drshahizan/software-engineering/blob/main/materials/tools.md).
