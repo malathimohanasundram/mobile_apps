@@ -22,13 +22,10 @@
 |  11 | JANAVI RADHA A/P BALA                          |                |        [:octocat:](https://github.com/)        |
 |  12 | JUDE YOOGEN A/L GUNARATNAM                     |   JYoogen0706  |        [:octocat:](https://github.com/JYoogen0706)|
 |  13 | KARAN RAJ A/L ANBARASAN                        |                |        [:octocat:](https://github.com/)        |
-<<<<<<< HEAD
 |  14 | MALATHI A/P MOHANASUNDRAM                      |malathimohanasundram                |        [:octocat:](https://github.com/)        |
 |  15 | MOHAMAD ROSLAN BIN SAIDI                       |                |        [:octocat:](https://github.com/)        |
-=======
 |  14 | MALATHI A/P MOHANASUNDRAM                      |malathimohanasundram                 |        [:octocat:](https://github.com/)        |
 |  15 | MOHAMAD ROSLAN BIN SAIDI                       | rootchips       |        [:octocat:](https://github.com/rootchips)|
->>>>>>> 9b5cedfcad8b1bd451dd156215b6998084f50a00
 |  16 | MOHAMAD SHAHRIL BIN MOHAMMAD MAHFUD            |                |        [:octocat:](https://github.com/)        |
 |  17 | MOHAMED FIRDAUS BIN ZAIDI                      | pdotzzzmache   |        [:octocat:](https://github.com/)        |
 |  18 | MUHAMAD ARIF BIN JOHAR                         | xzrians        |    [:octocat:](https://github.com/xzrians)     |
