@@ -47,6 +47,7 @@
 |  36 | THARSHINI A/P RAJAN                            |                |        [:octocat:](https://github.com/)        |
 |  37 | THEVENDRAN A/L PAREMESWARAN                    |                |        [:octocat:](https://github.com/)        |
 |  38 | KIGENDREN A/L SIVA KUMAR                       | Kigen26        |    [:octocat:](https://github.com/Kigen26)     |
+|  39 | SYAIFUL ALFRAIZA BIN AINI ABDULLAH             |syaifulalfraiza |        [:octocat:](https://github.com/)        |
 
 ## Contribution 🛠️
 
