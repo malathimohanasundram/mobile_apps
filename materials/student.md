@@ -25,7 +25,7 @@
 |  14 | MALATHI A/P MOHANASUNDRAM                      |                |        [:octocat:](https://github.com/)        |
 |  15 | MOHAMAD ROSLAN BIN SAIDI                       | rootchips       |        [:octocat:](https://github.com/rootchips)|
 |  16 | MOHAMAD SHAHRIL BIN MOHAMMAD MAHFUD            |                |        [:octocat:](https://github.com/)        |
-|  17 | MOHAMED FIRDAUS BIN ZAIDI                      |                |        [:octocat:](https://github.com/)        |
+|  17 | MOHAMED FIRDAUS BIN ZAIDI                      | pdotzzzmache   |        [:octocat:](https://github.com/)        |
 |  18 | MUHAMAD ARIF BIN JOHAR                         | xzrians        |    [:octocat:](https://github.com/xzrians)     |
 |  19 | MOHAMMED SATIPPIDDIN SAFID BIN HAMZAH          | sandman-torn   |  [:octocat:](https://github.com/sandman-torn)  |
 |  20 | MUHAMMAD ASYRAF BIN RAMLEE                     | MuhdAsyraf-git |        [:octocat:](https://github.com/)        |
