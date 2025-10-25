@@ -48,6 +48,7 @@
 |  37 | THEVENDRAN A/L PAREMESWARAN                    |                |        [:octocat:](https://github.com/)        |
 |  38 | KIGENDREN A/L SIVA KUMAR                       | Kigen26        |    [:octocat:](https://github.com/Kigen26)     |
 |  39 | SYAIFUL ALFRAIZA BIN AINI ABDULLAH             |syaifulalfraiza |        [:octocat:](https://github.com/)        |
+|  40 | AZIZUL ARIFF BIN PUAT NELSON                   |azizulnelson80  |    [https://github.com/azizulnelson80]         |
 
 ## Contribution 🛠️
 
