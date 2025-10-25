@@ -9,7 +9,7 @@
 
 |  No | Name                                           | ID             |                     Github                     |
 | --: | ---------------------------------------------- | -------------- | :--------------------------------------------: |
-|   1 | AHMAD MUZAKKIR BIN MUHAMAD                     |                |        [:octocat:](https://github.com/)        |
+|   1 | AHMAD MUZAKKIR BIN MUHAMAD                     | amuzakkir      |        [:octocat:](https://github.com/)        |
 |   2 | AIMAN FITRI BIN YUSRI                          |                |        [:octocat:](https://github.com/)        |
 |   3 | AIMIE NATASYA BINTI AYUB                       |                |        [:octocat:](https://github.com/)        |
 |   4 | AMIN ZUL HUSNI BIN MOHAMAD BAHARUDIN           |                |        [:octocat:](https://github.com/)        |
@@ -18,18 +18,23 @@
 |   7 | EFFA AIZA BINTI SULAIMAN                       |                |        [:octocat:](https://github.com/)        |
 |   8 | ELAWARASI A/P NADARAJAN                        |                |        [:octocat:](https://github.com/)        |
 |   9 | HARRAZ HAZIQ BIN AZLIM                         |                |        [:octocat:](https://github.com/)        |
-|  10 | ISMAIL BIN AMAN                                |                |        [:octocat:](https://github.com/)        |
+|  10 | ISMAIL BIN AMAN                                | oldpistol      | [:octocat:](https://github.com/oldpistol)      |
 |  11 | JANAVI RADHA A/P BALA                          |                |        [:octocat:](https://github.com/)        |
 |  12 | JUDE YOOGEN A/L GUNARATNAM                     |                |        [:octocat:](https://github.com/)        |
 |  13 | KARAN RAJ A/L ANBARASAN                        |                |        [:octocat:](https://github.com/)        |
+<<<<<<< HEAD
 |  14 | MALATHI A/P MOHANASUNDRAM                      |malathimohanasundram                |        [:octocat:](https://github.com/)        |
 |  15 | MOHAMAD ROSLAN BIN SAIDI                       |                |        [:octocat:](https://github.com/)        |
+=======
+|  14 | MALATHI A/P MOHANASUNDRAM                      |                |        [:octocat:](https://github.com/)        |
+|  15 | MOHAMAD ROSLAN BIN SAIDI                       | rootchips       |        [:octocat:](https://github.com/rootchips)|
+>>>>>>> 9b5cedfcad8b1bd451dd156215b6998084f50a00
 |  16 | MOHAMAD SHAHRIL BIN MOHAMMAD MAHFUD            |                |        [:octocat:](https://github.com/)        |
 |  17 | MOHAMED FIRDAUS BIN ZAIDI                      |                |        [:octocat:](https://github.com/)        |
 |  18 | MUHAMAD ARIF BIN JOHAR                         | xzrians        |    [:octocat:](https://github.com/xzrians)     |
-|  19 | MOHAMMED SATIPPIDDIN SAFID BIN HAMZAH          |                |        [:octocat:](https://github.com/)        |
-|  20 | MUHAMMAD ASYRAF BIN RAMLEE                     |                |        [:octocat:](https://github.com/)        |
-|  21 | MUHAMMAD BADRUL AMIN BIN MASROL                |                |        [:octocat:](https://github.com/)        |
+|  19 | MOHAMMED SATIPPIDDIN SAFID BIN HAMZAH          | sandman-torn   |  [:octocat:](https://github.com/sandman-torn)  |
+|  20 | MUHAMMAD ASYRAF BIN RAMLEE                     | MuhdAsyraf-git |        [:octocat:](https://github.com/)        |
+|  21 | MUHAMMAD BADRUL AMIN BIN MASROL                |    badz20      |        [:octocat:](https://github.com/)        |
 |  22 | MUHAMMAD FAIZ FITRI BIN MOHD NOH               |                |        [:octocat:](https://github.com/)        |
 |  23 | MUHAMMAD FAIZAL BIN ASARAB ALI                 |                |        [:octocat:](https://github.com/)        |
 |  24 | MUHAMMAD HAFIZUDDIN SHAH BIN ABDUL RAHMAN SHAH |                |        [:octocat:](https://github.com/)        |
