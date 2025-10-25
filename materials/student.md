@@ -9,7 +9,7 @@
 
 |  No | Name                                           | ID             |                     Github                     |
 | --: | ---------------------------------------------- | -------------- | :--------------------------------------------: |
-|   1 | AHMAD MUZAKKIR BIN MUHAMAD                     |                |        [:octocat:](https://github.com/)        |
+|   1 | AHMAD MUZAKKIR BIN MUHAMAD                     | amuzakkir      |        [:octocat:](https://github.com/)        |
 |   2 | AIMAN FITRI BIN YUSRI                          |                |        [:octocat:](https://github.com/)        |
 |   3 | AIMIE NATASYA BINTI AYUB                       |                |        [:octocat:](https://github.com/)        |
 |   4 | AMIN ZUL HUSNI BIN MOHAMAD BAHARUDIN           |                |        [:octocat:](https://github.com/)        |
@@ -25,10 +25,10 @@
 |  14 | MALATHI A/P MOHANASUNDRAM                      |                |        [:octocat:](https://github.com/)        |
 |  15 | MOHAMAD ROSLAN BIN SAIDI                       | rootchips       |        [:octocat:](https://github.com/rootchips)|
 |  16 | MOHAMAD SHAHRIL BIN MOHAMMAD MAHFUD            |                |        [:octocat:](https://github.com/)        |
-|  17 | MOHAMED FIRDAUS BIN ZAIDI                      |                |        [:octocat:](https://github.com/)        |
+|  17 | MOHAMED FIRDAUS BIN ZAIDI                      | pdotzzzmache   |        [:octocat:](https://github.com/)        |
 |  18 | MUHAMAD ARIF BIN JOHAR                         | xzrians        |    [:octocat:](https://github.com/xzrians)     |
 |  19 | MOHAMMED SATIPPIDDIN SAFID BIN HAMZAH          | sandman-torn   |  [:octocat:](https://github.com/sandman-torn)  |
-|  20 | MUHAMMAD ASYRAF BIN RAMLEE                     |                |        [:octocat:](https://github.com/)        |
+|  20 | MUHAMMAD ASYRAF BIN RAMLEE                     | MuhdAsyraf-git |        [:octocat:](https://github.com/)        |
 |  21 | MUHAMMAD BADRUL AMIN BIN MASROL                |    badz20      |        [:octocat:](https://github.com/)        |
 |  22 | MUHAMMAD FAIZ FITRI BIN MOHD NOH               |                |        [:octocat:](https://github.com/)        |
 |  23 | MUHAMMAD FAIZAL BIN ASARAB ALI                 |                |        [:octocat:](https://github.com/)        |
@@ -47,6 +47,7 @@
 |  36 | THARSHINI A/P RAJAN                            |                |        [:octocat:](https://github.com/)        |
 |  37 | THEVENDRAN A/L PAREMESWARAN                    |                |        [:octocat:](https://github.com/)        |
 |  38 | KIGENDREN A/L SIVA KUMAR                       | Kigen26        |    [:octocat:](https://github.com/Kigen26)     |
+|  39 | SYAIFUL ALFRAIZA BIN AINI ABDULLAH             |syaifulalfraiza |        [:octocat:](https://github.com/)        |
 
 ## Contribution 🛠️
 
