@@ -30,7 +30,7 @@
 |  15 | MOHAMAD ROSLAN BIN SAIDI                       | rootchips       |        [:octocat:](https://github.com/rootchips)|
 >>>>>>> 9b5cedfcad8b1bd451dd156215b6998084f50a00
 |  16 | MOHAMAD SHAHRIL BIN MOHAMMAD MAHFUD            |                |        [:octocat:](https://github.com/)        |
-|  17 | MOHAMED FIRDAUS BIN ZAIDI                      |                |        [:octocat:](https://github.com/)        |
+|  17 | MOHAMED FIRDAUS BIN ZAIDI                      | pdotzzzmache   |        [:octocat:](https://github.com/)        |
 |  18 | MUHAMAD ARIF BIN JOHAR                         | xzrians        |    [:octocat:](https://github.com/xzrians)     |
 |  19 | MOHAMMED SATIPPIDDIN SAFID BIN HAMZAH          | sandman-torn   |  [:octocat:](https://github.com/sandman-torn)  |
 |  20 | MUHAMMAD ASYRAF BIN RAMLEE                     | MuhdAsyraf-git |        [:octocat:](https://github.com/)        |
@@ -39,7 +39,7 @@
 |  23 | MUHAMMAD FAIZAL BIN ASARAB ALI                 |                |        [:octocat:](https://github.com/)        |
 |  24 | MUHAMMAD HAFIZUDDIN SHAH BIN ABDUL RAHMAN SHAH |                |        [:octocat:](https://github.com/)        |
 |  25 | MUHAMMAD HAZIM BIN ADNAN                       |                |        [:octocat:](https://github.com/)        |
-|  26 | MUHAMMAD HIZWAN BIN ZAMERI                     |                |        [:octocat:](https://github.com/)        |
+|  26 | MUHAMMAD HIZWAN BIN ZAMERI                     | hizwanzameri   |        [:octocat:](https://github.com/hizwanzameri)        |
 |  27 | MUHAMMAD SYAZWAN BIN NAZRI                     | syazwan-nazri  | [:octocat:](https://github.com/syazwan-nazri)  |
 |  28 | NABILAH BINTI ABD RAHMAN                       |                |        [:octocat:](https://github.com/)        |
 |  29 | NOOR AMERA SHAFINAZ BINTI MUHAMMAD AZMI        |                |        [:octocat:](https://github.com/)        |
@@ -52,6 +52,8 @@
 |  36 | THARSHINI A/P RAJAN                            |                |        [:octocat:](https://github.com/)        |
 |  37 | THEVENDRAN A/L PAREMESWARAN                    |                |        [:octocat:](https://github.com/)        |
 |  38 | KIGENDREN A/L SIVA KUMAR                       | Kigen26        |    [:octocat:](https://github.com/Kigen26)     |
+|  39 | SYAIFUL ALFRAIZA BIN AINI ABDULLAH             |syaifulalfraiza |        [:octocat:](https://github.com/)        |
+|  40 | AZIZUL ARIFF BIN PUAT NELSON                   |azizulnelson80  |    [https://github.com/azizulnelson80]         |
 
 ## Contribution 🛠️
 
