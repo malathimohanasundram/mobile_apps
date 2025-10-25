@@ -20,7 +20,7 @@
 |   9 | HARRAZ HAZIQ BIN AZLIM                         |                |        [:octocat:](https://github.com/)        |
 |  10 | ISMAIL BIN AMAN                                | oldpistol      | [:octocat:](https://github.com/oldpistol)      |
 |  11 | JANAVI RADHA A/P BALA                          |                |        [:octocat:](https://github.com/)        |
-|  12 | JUDE YOOGEN A/L GUNARATNAM                     |                |        [:octocat:](https://github.com/)        |
+|  12 | JUDE YOOGEN A/L GUNARATNAM                     |   JYoogen0706  |        [:octocat:](https://github.com/JYoogen0706)|
 |  13 | KARAN RAJ A/L ANBARASAN                        |                |        [:octocat:](https://github.com/)        |
 <<<<<<< HEAD
 |  14 | MALATHI A/P MOHANASUNDRAM                      |malathimohanasundram                |        [:octocat:](https://github.com/)        |
