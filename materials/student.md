@@ -29,7 +29,7 @@
 |  18 | MUHAMAD ARIF BIN JOHAR                         | xzrians        |    [:octocat:](https://github.com/xzrians)     |
 |  19 | MOHAMMED SATIPPIDDIN SAFID BIN HAMZAH          |                |        [:octocat:](https://github.com/)        |
 |  20 | MUHAMMAD ASYRAF BIN RAMLEE                     |                |        [:octocat:](https://github.com/)        |
-|  21 | MUHAMMAD BADRUL AMIN BIN MASROL                |                |        [:octocat:](https://github.com/)        |
+|  21 | MUHAMMAD BADRUL AMIN BIN MASROL                |    badz20      |        [:octocat:](https://github.com/)        |
 |  22 | MUHAMMAD FAIZ FITRI BIN MOHD NOH               |                |        [:octocat:](https://github.com/)        |
 |  23 | MUHAMMAD FAIZAL BIN ASARAB ALI                 |                |        [:octocat:](https://github.com/)        |
 |  24 | MUHAMMAD HAFIZUDDIN SHAH BIN ABDUL RAHMAN SHAH |                |        [:octocat:](https://github.com/)        |
