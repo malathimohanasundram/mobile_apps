@@ -23,11 +23,11 @@
 |  12 | JUDE YOOGEN A/L GUNARATNAM                     |                |        [:octocat:](https://github.com/)        |
 |  13 | KARAN RAJ A/L ANBARASAN                        |                |        [:octocat:](https://github.com/)        |
 |  14 | MALATHI A/P MOHANASUNDRAM                      |                |        [:octocat:](https://github.com/)        |
-|  15 | MOHAMAD ROSLAN BIN SAIDI                       |                |        [:octocat:](https://github.com/)        |
+|  15 | MOHAMAD ROSLAN BIN SAIDI                       | rootchips       |        [:octocat:](https://github.com/rootchips)|
 |  16 | MOHAMAD SHAHRIL BIN MOHAMMAD MAHFUD            |                |        [:octocat:](https://github.com/)        |
 |  17 | MOHAMED FIRDAUS BIN ZAIDI                      |                |        [:octocat:](https://github.com/)        |
 |  18 | MUHAMAD ARIF BIN JOHAR                         | xzrians        |    [:octocat:](https://github.com/xzrians)     |
-|  19 | MOHAMMED SATIPPIDDIN SAFID BIN HAMZAH          |                |        [:octocat:](https://github.com/)        |
+|  19 | MOHAMMED SATIPPIDDIN SAFID BIN HAMZAH          | sandman-torn   |  [:octocat:](https://github.com/sandman-torn)  |
 |  20 | MUHAMMAD ASYRAF BIN RAMLEE                     |                |        [:octocat:](https://github.com/)        |
 |  21 | MUHAMMAD BADRUL AMIN BIN MASROL                |    badz20      |        [:octocat:](https://github.com/)        |
 |  22 | MUHAMMAD FAIZ FITRI BIN MOHD NOH               |                |        [:octocat:](https://github.com/)        |
