@@ -18,7 +18,7 @@
 |   7 | EFFA AIZA BINTI SULAIMAN                       |                |        [:octocat:](https://github.com/)        |
 |   8 | ELAWARASI A/P NADARAJAN                        |                |        [:octocat:](https://github.com/)        |
 |   9 | HARRAZ HAZIQ BIN AZLIM                         |                |        [:octocat:](https://github.com/)        |
-|  10 | ISMAIL BIN AMAN                                |                |        [:octocat:](https://github.com/)        |
+|  10 | ISMAIL BIN AMAN                                | oldpistol      | [:octocat:](https://github.com/oldpistol)      |
 |  11 | JANAVI RADHA A/P BALA                          |                |        [:octocat:](https://github.com/)        |
 |  12 | JUDE YOOGEN A/L GUNARATNAM                     |                |        [:octocat:](https://github.com/)        |
 |  13 | KARAN RAJ A/L ANBARASAN                        |                |        [:octocat:](https://github.com/)        |
