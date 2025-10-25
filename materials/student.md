@@ -37,7 +37,7 @@
 | 24 | MUHAMMAD HAFIZUDDIN SHAH BIN ABDUL RAHMAN SHAH |    | [:octocat:](https://github.com/) |
 | 25 | MUHAMMAD HAZIM BIN ADNAN                       |    | [:octocat:](https://github.com/) |
 | 26 | MUHAMMAD HIZWAN BIN ZAMERI                     |    | [:octocat:](https://github.com/) |
-| 27 | MUHAMMAD SYAZWAN BIN NAZRI                     |    | [:octocat:](https://github.com/) |
+| 27 | MUHAMMAD SYAZWAN BIN NAZRI                     |  syazwan-nazri  | [:octocat:](https://github.com/) |
 | 28 | NABILAH BINTI ABD RAHMAN                       |    | [:octocat:](https://github.com/) |
 | 29 | NOOR AMERA SHAFINAZ BINTI MUHAMMAD AZMI        |    | [:octocat:](https://github.com/) |
 | 30 | NOR HAZIDA BINTI HAMDAN                        |    | [:octocat:](https://github.com/) |
